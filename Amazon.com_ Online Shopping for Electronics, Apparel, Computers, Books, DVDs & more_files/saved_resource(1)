@@ -1,32 +1,0 @@
-
-var ftGUID_3509266="4062263B65DAA9";
-var ftConfID_3509266="11740559";
-var ftParams_3509266="ftx=&fty=&ftadz=&ftscw=ebuy=22306134;esid=4104512;epid=240155062;ecid=109435326;eadv=4053494;eaid=437362825;erid=109317649;eexpid=;eexcid=;erv=1;eiid=CLn1tsOzquECFQSoyAodAwYKyw;&ft_custom=4053494__22306134__4104512__109435326&ftOBA=1&ft_ifb=1&ft_domain=www.amazon.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.amazon.com%2F&ft_keyword=240155062&ft_section=62893413042077890742933953025894696863%7C%7C240155062&cachebuster=411002.7960434692";
-var ftKeyword_3509266="";
-var ftCustom_3509266="4053494__22306134__4104512__109435326";
-var ftSection_3509266="62893413042077890742933953025894696863||240155062";
-var ftSegment_3509266="w2c,tg1,n7h";
-var ftSegmentList_3509266=[{s:'w2c'},{s:'tg1'},{s:'n7h'}];
-var ftRuleMatch_3509266="00000100";
-var ftTimestamp_3509266="1553967696";
-var ftGeoC2_3509266="us";
-var ftGeoState_3509266="ny";
-var ftGeoCity_3509266="new york";
-var ftISP_3509266="columbia university";
-var ftSpeed_3509266="t1";
-var ftDMA_3509266="501";
-var ftLong_3509266="-73.9703";
-var ftLat_3509266="40.7996";
-var ftPostal_3509266="10025";
-var ftTimeZone_3509266="-400";
-var ftMobileCarrier_3509266="";
-var ftImp3509266 = {};
-ftImp3509266.privacy = "x";
-ftImp3509266.guidAge = "44";
-ftImp3509266.impID = "802F3A6D-9F51-BD4A-E670-31DA32B94FC0";
-ftImp3509266.duid = "FT:4062263B65DAA9";
-
-ftImp3509266.ft_tpplid = "";
-ftImp3509266.ft_c = {};
-
-document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/350/3509266/2446707/js/j-3509266-2446707.js" id="ftscript_m3509266" name="ftscript_m3509266"></scr'+'ipt>');
